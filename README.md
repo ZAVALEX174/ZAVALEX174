@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 # Александр Зуев
 ## Frontend-разработчик
 
-Челябинск | email: [zuevalex@yandex.ru] | GitHub: [ZAVALEX174/ZAVALEX174] | Telegram: [@AlexZav174]
+Челябинск | email: [zuevalex@yandex.ru] | GitHub: (https://github.com/ZAVALEX174) | Telegram: [@AlexZav174]
 
 ### Опыт работы:
 **Брендинговое агентство "ЫТЬ!"** | Frontend-разработчик
